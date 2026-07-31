@@ -1,5 +1,14 @@
 # Microsoft 365 Administration
 
+<p align="center">
+
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
+![Exchange Online](https://img.shields.io/badge/Exchange_Online-0078D4?style=for-the-badge)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0078D4?style=for-the-badge)
+![Documentation](https://img.shields.io/badge/Documentation-4285F4?style=for-the-badge)
+
+</p>
+
 A structured collection of documentation and practical reference material for Microsoft 365 administration. This repository covers Microsoft 365 services, Microsoft Entra ID, Exchange Online, Teams, SharePoint, OneDrive, licensing, security, PowerShell, and common troubleshooting scenarios.
 
 ---
